@@ -109,7 +109,7 @@ gol(hx[a],hy[a]);
 
 circle(220,210,10);
 
-delay(100);
+delay(100000);
 
 }
 
